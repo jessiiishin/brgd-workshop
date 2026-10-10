@@ -1,4 +1,4 @@
-# brgd-workshop-test
+# brgd-workshop
 hello yayyyy
 brgd is the best
 
