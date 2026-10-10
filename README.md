@@ -1,4 +1,3 @@
 # brgd-workshop
-hahahhahaa
-
-🐛  🐛     🐛
+github workshop yay
+this is amazing
