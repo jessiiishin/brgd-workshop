@@ -1,6 +1,5 @@
 # brgd-workshop
-hello yayyyy
-brgd is the best
+brgd is still the best!!
 
 🐛  🐛     🐛
   🐛   🐛 
